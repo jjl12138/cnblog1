@@ -5,7 +5,7 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
-
+# file
 class FilePipeline(object):
     '''
     实现保存到txt文件的类，类名这个地方为了区分，做了修改，
